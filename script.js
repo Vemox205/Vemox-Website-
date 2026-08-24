@@ -1,0 +1,1 @@
+function generateContent() { const prompt = document.getElementById('userPrompt').value; const outputDiv = document.getElementById('output'); outputDiv.innerHTML = "Generating content for: " + prompt; }
